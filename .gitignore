@@ -1,0 +1,9 @@
+*.vcdbs
+Backups/
+Backups/*
+BackupSaves/
+BackupSaves/*
+Cache/
+Cache/*
+Logs/
+Logs/*
