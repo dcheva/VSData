@@ -82,7 +82,7 @@
     "audioDevice": null,
     "playeruid": "Dee.Covan@gmail.com",
     "playername": "DeeCovan",
-    "lastSkinSelection": "baseskin:skin9,eyecolor:aquamarine,underwear:leotard,voicetype:tuba,voicepitch:medium,hairbase:mediumlength-bangs,hairextra:elaboratestickbun,facialexpression:neutral,mustache:none,beard:none,haircolor:wintergreendream",
+    "lastSkinSelection": "baseskin:skin18,eyecolor:purple,underwear:leotard,voicetype:oboe,voicepitch:verylow,hairbase:short-trimmed,hairextra:topknot,facialexpression:serious,mustache:none,beard:none,haircolor:eerieblack",
     "currentHandbookCategoryCode": null
   },
   "intSettings": {
@@ -179,7 +179,7 @@
     "newSeraphVoices": true,
     "hasGameServer": false,
     "showMinimapHud": true,
-    "chatdialogvisible": false,
+    "chatdialogvisible": true,
     "noHandbookPause": false,
     "immersiveFpMode": false
   },
