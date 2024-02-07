@@ -1,5 +1,5 @@
 {
-  "FileEditWarning": "PLEASE NOTE: This file is also loaded when you start a single player world. If you want to run a dedicated server without affecting single player, we recommend you install the game into a different folder and run the server from there.",
+  "EntityDebugMode": false,
   "ConfigVersion": "1.5",
   "ServerName": "Vintage Story Server",
   "ServerUrl": null,
@@ -15,7 +15,6 @@
   "MasterserverUrl": "http://masterserver.vintagestory.at/api/v1/servers/",
   "ModDbUrl": "https://mods.vintagestory.at/",
   "ClientConnectionTimeout": 150,
-  "EntityDebugMode": false,
   "Password": null,
   "MapSizeX": 1024000,
   "MapSizeY": 256,
@@ -331,8 +330,8 @@
   "AntiAbuse": 0,
   "WorldConfig": {
     "Seed": null,
-    "SaveFileLocation": "C:\\Users\\Dmytro\\AppData\\Roaming\\VintagestoryData\\Saves\\dee  casual tale.vcdbs",
-    "WorldName": "Dee  Casual Tale",
+    "SaveFileLocation": "C:\\Users\\Dmytro\\AppData\\Roaming\\VintagestoryData\\Saves\\dee casual world.vcdbs",
+    "WorldName": "Dee Casual World",
     "AllowCreativeMode": true,
     "PlayStyle": "surviveandbuild",
     "PlayStyleLangCode": "preset-surviveandbuild",
@@ -348,7 +347,7 @@
       "lungCapacity": "40000",
       "harshWinters": "true",
       "daysPerMonth": "9",
-      "saplingGrowthRate": "1",
+      "saplingGrowthRate": "2",
       "propickNodeSearchRadius": "6",
       "allowUndergroundFarming": false,
       "temporalGearRespawnUses": "20",
@@ -369,7 +368,6 @@
   "AllowFireSpread": true,
   "AllowFallingBlocks": true,
   "HostedMode": false,
-  "HostedModeAllowMods": false,
   "StartupCommands": null,
   "RepairMode": false,
   "AnalyzeMode": false,
@@ -377,6 +375,5 @@
   "RegenerateCorruptChunks": false,
   "ChatRateLimitMs": 1000,
   "DieBelowDiskSpaceMb": 400,
-  "ModIdBlackList": null,
-  "ServerIdentifier": "589948d9-9bb4-4e22-b378-8e3a052df395"
+  "ModIdBlackList": null
 }
